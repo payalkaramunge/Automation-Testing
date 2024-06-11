@@ -17,8 +17,7 @@ public class FirstJavaProgram
 		b=10;
 		c=20;
 		System.out.println("value of b:" +b);
-		System.out.println("value of b:" + b+c);
-		System.out.println(a+" "+b+" "+c);
+		System.out.println("value of b:" + b-c);
 	}
 
 }
